@@ -7,7 +7,7 @@ This project employs advanced machine learning and computer vision techniques to
 Here is a screenshot from one of the output videos:
 
 ![Screenshot](output_videos/screenshot.jpeg)
-
+![Video] (output_videos/output_video.avi)
 ## Models Used for the project
 * YOLO v8 for player detection
 * Fine Tuned YOLO for tennis ball detection
